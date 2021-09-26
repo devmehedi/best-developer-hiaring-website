@@ -1,0 +1,14 @@
+.marketplace-container{
+    background-color: #358597;
+    display: grid;
+    grid-template-columns: 3fr 1fr;
+    padding: 10px;
+}
+.developer-container{
+    color: blanchedalmond;
+    display: grid;
+    grid-template-columns: repeat(3, 1fr);
+    border: 1px solid aqua;
+    margin-right: 5px;
+    margin-left: 30px;
+}
