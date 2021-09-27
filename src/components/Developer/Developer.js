@@ -6,7 +6,7 @@ const Developer = (props) => {
     return (
         <div className="developer">
             <img src={img} alt="" />
-            <h4>Name: {name}</h4>
+            <h3>Name: {name}</h3>
             <h4>Designation: {designation}</h4>
             <h4>Age: {age}</h4>
             <h4>Country: {country}</h4>
@@ -14,7 +14,7 @@ const Developer = (props) => {
             <button
                 onClick={() => props.handleAddToCart(props.developer)}
                 className="hirebtn"
-            >Hire Me</button>
+            ><i class="fas fa-laptop-code"></i>  Hire Me</button>
         </div>
     );
 };
