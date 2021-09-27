@@ -8,9 +8,9 @@ const Developer = (props) => {
             <img src={img} alt="" />
             <h3>Name: {name}</h3>
             <h4>Designation: {designation}</h4>
-            <h4>Age: {age}</h4>
+            <h5>Age: {age}</h5>
             <h4>Country: {country}</h4>
-            <h4>Salary: {salary}</h4>
+            <h4>Salary: ${salary}</h4>
             <button
                 onClick={() => props.handleAddToCart(props.developer)}
                 className="hirebtn"

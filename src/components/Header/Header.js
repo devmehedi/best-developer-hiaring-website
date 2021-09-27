@@ -4,9 +4,8 @@ const Header = () => {
     return (
         <div className='header'>
             <h1>Hire Best Web Developer For Your Website Design And Development </h1>
-            <p>Developers of all categories can be found here. Which includes different types of skills.
-                <br />
-                Our services:</p>
+            <p>Developers of all categories can be found here. Which includes different types of skills.</p>
+            <h4>Our services:</h4>
             <h4>HTML5, CSS3, JAVASCRIPT, REACT JS, WORDPRESS, MONGODB, ES6, DOM, TYPESCRIPT, DATABASE, UI, UX EXPRESS, FRONTEND, BACKEND</h4>
         </div>
     );

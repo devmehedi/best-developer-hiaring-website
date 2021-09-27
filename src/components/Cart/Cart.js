@@ -10,8 +10,8 @@ const Cart = (props) => {
 
     return (
         <div className='cart'>
-            <h2>Hired summary</h2>
-            <h3>Hired Developers: {props.cart.length}</h3>
+            <h3>Hired summary</h3>
+            <h4>Hired Developers: {props.cart.length}</h4>
             <h4>Total: ${total}</h4>
             {props.cart.map(user => <h4>Hired ✔ {user.name} </h4>)}
         </div>
