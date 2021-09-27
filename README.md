@@ -1,10 +1,12 @@
 # Getting Started with The Super Hero Direction Project
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+This project was React with [Create React App](https://hire-best-developer.netlify.app/).
 
-## Available Scripts
+## This site give you
 
-In the project directory, you can run:
+1. From this site you can find different developers to create a fancy website.
+2. You can hire any type of developer from here to create any type of website.
+3. You can hire from here chip rate developers who will serve you front end work and deliver very short time and who will behave very friendly
 
 ### `npm start`
 
