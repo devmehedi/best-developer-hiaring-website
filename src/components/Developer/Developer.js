@@ -1,7 +1,7 @@
 import React from 'react';
 import '../Developer/Developer.css';
 const Developer = (props) => {
-    console.log(props.developer)
+    // console.log(props)
     const { name, age, country, designation, img, salary } = props.developer;
     return (
         <div className="developer">
@@ -11,7 +11,10 @@ const Developer = (props) => {
             <h4>Age: {age}</h4>
             <h4>Country: {country}</h4>
             <h4>Salary: {salary}</h4>
-            <button className="hirebtn">Hire Me</button>
+            <button
+                onClick={() => props.handleAddToCart(props.developer)}
+                className="hirebtn"
+            >Hire Me</button>
         </div>
     );
 };
