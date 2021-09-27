@@ -1,6 +1,6 @@
 # Getting Started with The Super Hero Direction Project
 
-This project was React with [Create React App](https://hire-best-developer.netlify.app/).
+This project was React with (https://hire-best-developer.netlify.app/).
 
 ## This site give you
 
