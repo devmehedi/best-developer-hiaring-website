@@ -14,7 +14,7 @@ const Developer = (props) => {
             <button
                 onClick={() => props.handleAddToCart(props.developer)}
                 className="hirebtn"
-            ><i class="fas fa-laptop-code"></i>  Hire Me</button>
+            > <i class="fas fa-laptop-code"></i>  Hire Me</button>
         </div>
     );
 };

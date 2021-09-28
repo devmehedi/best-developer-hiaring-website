@@ -7,9 +7,10 @@ This project was Javascript with (https://hire-best-developer.netlify.app/).
 
 ## This site give you
 
-1. From this site you can find different developers to create a fancy website.
-2. You can hire any type of developer from here to create any type of website.
-3. You can hire from here chip rate developers who will serve you front end work and deliver very short time and who will behave very friendly
+1. From this site you can find different developers to create a fancy website. You can hire any type of developer from here to create any type of website.You can hire from here chip rate developers who will serve you front end work and deliver very short time and who will behave very friendly.
+2. If you need a fancy Website, you can choose any language and any developer in this site. 
+3. You can choose any type language in this site:
+ HTML5, CSS3, JS, TS, ES6, DOM, React, Express, MongoDB, Wordpress
 
 ### `npm start`
 
